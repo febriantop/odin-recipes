@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+    background-color: purple;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: yellow;
+    color: purple;
+}
+
+li, a{
+    font-family: monospace, sans-serif;
+    color: yellow;
+    list-style: none;
+}
